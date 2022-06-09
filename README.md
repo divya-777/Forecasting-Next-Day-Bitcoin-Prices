@@ -1,6 +1,7 @@
 # Forecasting-Next-Day-Bitcoin-Prices
 
-web app : https://div-bitcoin-forecast-app.herokuapp.com/
+Web App : https://div-bitcoin-forecast-app.herokuapp.com/
+Blog    : https://medium.com/p/cb833ab61183
 
 Implemented Multivariate Forecasting models to predict next day BTC prices using previous day high dimensional data.
 
