@@ -27,7 +27,7 @@ Topmost important Features were selected after multiple iterations by Recursive 
 
 **5.Modeling:**
 
-***splitting:*** Followed the sliding window approach with a window size of 500 data points. Of which 1st 400 points are set for training and the remaining for testing the model.
+***Splitting:*** Followed the sliding window approach with a window size of 500 data points. Of which 1st 400 points are set for training and the remaining for testing the model.
 
 ***Scaling:*** Performed Feature Scaling through Scikit-Learn library, used either Robust Scalar followed by Min-Max Scalar or Standard Scaler to scale the data based on the performance.
 
