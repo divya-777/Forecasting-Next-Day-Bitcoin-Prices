@@ -1,8 +1,8 @@
-# Forecasting-Next-Day-Bitcoin-Prices
+ # Forecasting-Next-Day-Bitcoin-Prices
 
-Web App : https://div-bitcoin-forecast-app.herokuapp.com/
+***Web App :*** https://div-bitcoin-forecast-app.herokuapp.com/
 
-Blog    : https://medium.com/p/cb833ab61183
+***Blog    :*** https://medium.com/p/cb833ab61183
 
 **1. Getting Data:**
   Bitcoin related raw features were extracted from various sources, some of them were Web Scraped through custom python code using Beautiful Soup library, while others   extracted from available Web APIs.
