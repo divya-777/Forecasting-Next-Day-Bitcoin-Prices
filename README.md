@@ -4,7 +4,27 @@ Web App : https://div-bitcoin-forecast-app.herokuapp.com/
 
 Blog    : https://medium.com/p/cb833ab61183
 
+#1. Getting Data:
+Bitcoin related raw features were extracted from various sources, some of them were Web Scraped through custom python code using Beautiful Soup library, while others extracted from available Web APIs.
+
+source1:
+
+source2:
+
+source3:
+
+source4:
+
+2. Exploratory Data Analysis(EDA) and statistical analysis done using Correlation plots and Kernel Density Estimates(KDE).
+
+3. Feature Engineering:
+Performed Feature Engineering using library TA-lib , Smoothening techniques were used to extract noise free features from the existing raw features that allows important patterns to stand out and to perform technical analysis.
+Feature Selection:
+Modeling:
+
 Implemented Multivariate Forecasting models to predict next day BTC prices using previous day high dimensional data.
+
+Exploratory Data Analysis(EDA) and statistical analysis done using Correlation plots and Kernel Density Estimates(KDE).
 
 Bitcoin related raw features were extracted from various sources, some of them were Web Scraped through custom python code using Beautiful Soup library, while others extracted from available Web APIs.
 
